@@ -42,4 +42,11 @@ objFile.close()
 print(objFileData)
 ```
 
+![Results of my script](Picture1.png "Results of my script")  
+Figure 1. The results of my script
+
+
+
+![Results of my script](Picture2.png "Results of my script")  
+Figure 2. The results of my script
 
