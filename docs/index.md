@@ -78,7 +78,7 @@ Figure 3. Successfully running my script
 
 
 
-![Figure 5. Testing my code in the terminal](Picture3.png "Figure 5. Testing my code in the terminal")  
+![Figure 5. Testing my code in the terminal](Picture4.png "Figure 5. Testing my code in the terminal")  
 Figure 5. Testing my code in the terminal
 
 
