@@ -1,7 +1,12 @@
 # Working with the Pickle and Exception Handling features
-*BBritt, 5.25.2021*
+**BBritt**  
+*5.25.2021*
 
-## This script uses both the Pickle and Exception Handling features of Python. Pickling is a technique to work with binary files, and uses slightly different syntax than .txt files. Exception Handling is used to identify specific circumstances when running the command, and raising an error message if the circumstance is met. This can be used to clarify Python's error messages, as well as guide the user to enter specific inputs.
+## Introduction
+### In this write-up, I will be discussing how I created a Python Script that demonstrates the use of pickling and error exception handling. I researched online for websites that provide good explanations and examples of how to do both of these Python features. The script in this assignment uses pickling and exception handling, among other things learned in previous assignments, to create a working program that solves this task.
+
+## Learning Pickling
+### An important part of this assignment was learning what pickling is. Pickling is a technique used in python to save and store data in binary format. This allows for the reduction of the file’s size because it obscures the data. Pickling is done by attaching a ‘b’ to the w, r, or a types when working with a file. Additionally, pickle.dump and pickle.load are used when writing to a file or loading data from a binary file.
 
 ```
 # ---------------------------------------------------------------------------- #
