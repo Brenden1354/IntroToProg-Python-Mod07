@@ -6,8 +6,10 @@
 ### In this write-up, I will be discussing how I created a Python Script that demonstrates the use of pickling and error exception handling. I researched online for websites that provide good explanations and examples of how to do both of these Python features. The script in this assignment uses pickling and exception handling, among other things learned in previous assignments, to create a working program that solves this task.
 
 
+
 ## Learning Pickling
 ### An important part of this assignment was learning what pickling is. Pickling is a technique used in python to save and store data in binary format. This allows for the reduction of the file’s size because it obscures the data. Pickling is done by attaching a ‘b’ to the w, r, or a types when working with a file. Additionally, pickle.dump and pickle.load are used when writing to a file or loading data from a binary file.
+
 
 
 ![Figure 1. Learning Pickling. LAB 1-1](Picture3.png "Figure 1. Learning Pickling. LAB 7-1")  
@@ -15,8 +17,10 @@ Figure 1. Learning Pickling. LAB 1-1
 ### Figure 1 shows the script I created to learn what pickling is. In this script, I used a ‘b’ attached to the a and r to signal working with a binary file. I used the pickle.dump to dump data into the binary file. I also used pickle.load to load the data in the binary file and return it in a readable format.
 
 
+
 ## Learning error exception handling
 ### Another valuable thing to know in Python is how to use error exception handling. This is important because using this feature of Python can help clarify to users any errors they may encounter when running the code. Additionally, exception handling can be used to guide the user in a specific direction by raising an exception if an un-wanted input in entered. Exception handling uses Try and Except blocks, as well as Raise, to identify specific errors the user might make, and to print an error message if the user does make them.
+
 
 
 ## Researching and working with pickling and exception handling features
@@ -63,19 +67,24 @@ print(objFileData)
 Figure 2. Code for this assignment
 
 
+
 ![Figure 3. Successfully running my script](Picture1.png "Figure 3. Successfully running my script")  
 Figure 3. Successfully running my script
+
 
 
 ![Figure 4. Successfully running my script](Picture2.png "Figure 4. Successfully running my script")  
 Figure 3. Successfully running my script
 
 
+
 ![Figure 5. Testing my code in the terminal](Picture3.png "Figure 5. Testing my code in the terminal")  
 Figure 5. Testing my code in the terminal
 
 
+
 ### Figures 1, 2, 3, 4, and 5 show my code take user input data to interact with the menu and work with an existing script. These images show the code running in PyCharm and the terminal, and the script working.
+
 
 
 ## Summary
